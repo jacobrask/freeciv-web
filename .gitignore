@@ -77,4 +77,9 @@ freeciv-web.project
 configuration.sh.dist
 freeciv-web/src/main/webapp/META-INF/context.xml
 models.zip
-
+src/main/webapp/build.txt
+src/main/webapp/man
+src/main/webapp/sounds
+src/main/webapp/tilesets
+*/__pycache__/*
+logs/
